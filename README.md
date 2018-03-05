@@ -24,7 +24,7 @@ Instructor should prepare the following:
 ## Activity
 
 ### Rules
-* No saying the word on the card
+* The group cannot say or mouth the word on the card
 * Try to keep the explanations technical/related to the class (but you can vary this depending on the level of difficulty)
 
 ### Arrangement
